@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(250, 242, 233);
+    color: #7c7166;
+    text-shadow: rgb(242, 242, 228);
+    font-family: "papyrus";
+  }
+
+.jumbotron {
+    background-image: url("bellybuttons.jpeg");
+    background-size: 100% 100%;
+    text-align: center;
+
+  }
